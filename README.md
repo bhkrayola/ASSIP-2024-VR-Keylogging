@@ -6,6 +6,8 @@ This project investigates the potential for privacy leakage in Virtual Reality (
 
 This study was aimed as a replication study for the following research: [Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards](https://www.winlab.rutgers.edu/~yychen/papers/Privacy%20Leakage%20via%20Unrestricted%20Motion-Position%20Sensors%20in%20the%20Age%20of%20Virtual%20Reality.pdf)
 
+
+
 ![Zhang_Brian_Ho_2024ASSIP_Poster](https://github.com/user-attachments/assets/1f1efebd-c158-4bec-9f05-5492af79f0ac)
 
 ---
