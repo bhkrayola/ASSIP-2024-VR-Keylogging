@@ -2,9 +2,10 @@
 
 ## Project Overview
 This project investigates the potential for privacy leakage in Virtual Reality (VR) environments by logging motion and orientation data from VR controllers. By using a K-Nearest Neighbors (KNN) model, we were able to classify keystrokes with high accuracy, showcasing the vulnerabilities of VR systems to keylogging attacks.
+
 This study was aimed as a replication study for the following research: [Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards](https://www.winlab.rutgers.edu/~yychen/papers/Privacy%20Leakage%20via%20Unrestricted%20Motion-Position%20Sensors%20in%20the%20Age%20of%20Virtual%20Reality.pdf)
 
-**Abstract**: [Read the abstract here](https://journals.gmu.edu/index.php/jssr/article/view/4361)
+**Abstract**: [Read the published abstract here](https://journals.gmu.edu/index.php/jssr/article/view/4361)
 
 ---
 
@@ -35,23 +36,23 @@ This study was aimed as a replication study for the following research: [Privacy
   - **Model Testing**: Loads testing data and uses the saved KNN model to make predictions.
   - **Performance Metrics**: Outputs the accuracy and generates a report of the model's effectiveness in keystroke prediction.
 
-### `FileWriter.cs`
-- **Purpose**: Handles writing sensor data to a text file in the VR application.
+### `XRTriggerDataLogger.cs`
+- **Purpose**: Captures motion and trigger data from VR controllers.
 - **Functionality**: 
-  - **Data Collection**: Collects real-time data such as timestamps, positions, orientations, and trigger states from VR controllers.
-  - **File Writing**: Writes this data to a local file on the device for later analysis.
+  - **Sensor Monitoring**: Continuously logs the position, orientation, and trigger states of VR controllers in real-time.
+  - **Data Relay**: Sends collected sensor data to `FileWriter` for centralized logging.
 
 ### `KeyboardInput.cs`
-- **Purpose**: Manages user keyboard input within the VR environment.
+- **Purpose**: Handles virtual keyboard interactions and sends keypress data for logging.
 - **Functionality**: 
-  - **Keystroke Detection**: Detects and logs key presses, including their timestamps and associated sensor data.
-  - **Data Logging**: Ensures all keystroke events are accurately recorded for use in data analysis.
+  - **Key Press Detection**: Captures user keystrokes in the VR environment, including the specific keys pressed and their timing.
+  - **Data Relay**: Sends keystroke information to the `FileWriter`
 
-### `XRTriggerDataLogger.cs`
-- **Purpose**: Logs VR controller trigger events and additional sensor data.
+### `FileWriter.cs`
+- **Purpose**: Serves as a centralized class to write data from multiple sources to a single log file.
 - **Functionality**: 
-  - **Continuous Monitoring**: Monitors VR controller inputs, capturing positions, orientations, and trigger states.
-  - **Data Storage**: Logs all captured data to a file, providing a detailed record of user interactions for later analysis.
+  - **Centralized Data Logging**: Collects data from both the `XR Sensor Data Logger` and the `Keyboard Input`.
+  - **Data Management**: Manages writing timestamped entries of sensor data and keyboard input consistently to a log file, ensuring all interactions are captured for analysis.
 
 ---
 
