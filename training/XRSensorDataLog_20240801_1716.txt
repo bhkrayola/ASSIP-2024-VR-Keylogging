@@ -1,0 +1,84 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+6.99667,RightController,(-0.01, 1.02, 0.07),(0.70550, -0.00494, 0.05258, -0.70674),True
+Keystroke, Start, 6.99667
+11.04875,RightController,(-0.01, 0.99, 0.09),(0.60961, 0.03324, 0.12408, -0.78223),True
+Keystroke, t, 11.21614
+11.73194,RightController,(-0.01, 0.98, 0.09),(0.58550, 0.00821, 0.06437, -0.80807),True
+Keystroke, h, 11.91317
+12.69344,RightController,(-0.02, 0.99, 0.07),(0.58106, 0.11067, 0.21357, -0.77750),True
+Keystroke, e, 12.83256
+13.50081,RightController,(0.00, 0.97, 0.10),(0.51059, 0.04822, 0.04390, -0.85735),True
+Keystroke, Space_Button, 13.6539
+14.99044,RightController,(-0.01, 0.98, 0.08),(0.57112, 0.07911, 0.14416, -0.80423),True
+Keystroke, f, 15.14356
+15.56137,RightController,(-0.01, 0.99, 0.08),(0.60134, 0.08049, 0.15015, -0.78062),True
+Keystroke, r, 15.71445
+16.22954,RightController,(0.00, 0.99, 0.10),(0.62788, -0.03263, 0.00779, -0.77759),True
+Keystroke, u, 16.38254
+16.6889,RightController,(0.01, 0.99, 0.10),(0.62329, -0.06670, -0.03514, -0.77835),True
+Keystroke, i, 16.84216
+17.31557,RightController,(-0.01, 0.99, 0.08),(0.60864, 0.03960, 0.11214, -0.78448),True
+Keystroke, t, 17.46873
+18.19238,RightController,(-0.01, 0.98, 0.09),(0.51653, 0.05018, 0.04131, -0.85380),True
+Keystroke, Space_Button, 18.34569
+19.00007,RightController,(0.02, 1.00, 0.09),(0.60268, -0.08713, -0.12203, -0.78377),True
+Keystroke, o, 19.13927
+19.75209,RightController,(-0.01, 0.99, 0.07),(0.56861, 0.09660, 0.11120, -0.80931),True
+Keystroke, f, 19.87746
+20.51771,RightController,(-0.01, 0.97, 0.09),(0.50309, 0.09941, 0.02283, -0.85819),True
+Keystroke, Space_Button, 20.67092
+21.48972,RightController,(-0.02, 0.97, 0.07),(0.54601, 0.21702, 0.18076, -0.78873),True
+Keystroke, a, 21.64311
+22.42505,RightController,(0.00, 0.97, 0.10),(0.50821, 0.09423, 0.01824, -0.85587),True
+Keystroke, Space_Button, 22.59202
+23.23006,RightController,(-0.01, 0.98, 0.09),(0.57420, 0.10722, 0.08505, -0.80719),True
+Keystroke, f, 23.41087
+24.123,RightController,(0.01, 0.99, 0.09),(0.60891, -0.05186, -0.08156, -0.78733),True
+Keystroke, i, 24.26141
+25.06879,RightController,(-0.01, 0.98, 0.08),(0.57505, 0.06636, 0.03468, -0.81468),True
+Keystroke, g, 25.22278
+25.91821,RightController,(0.00, 0.97, 0.09),(0.51983, 0.08822, 0.00860, -0.84966),True
+Keystroke, Space_Button, 26.07125
+26.73977,RightController,(-0.01, 0.98, 0.08),(0.61480, 0.06570, 0.02720, -0.78547),True
+Keystroke, t, 26.89267
+27.33739,RightController,(-0.01, 0.98, 0.08),(0.60220, 0.10268, 0.07818, -0.78784),True
+Keystroke, r, 27.51816
+28.03342,RightController,(-0.01, 0.98, 0.07),(0.59595, 0.13516, 0.12547, -0.78156),True
+Keystroke, e, 28.18645
+28.42297,RightController,(-0.02, 0.98, 0.07),(0.59130, 0.13582, 0.13571, -0.78326),True
+Keystroke, e, 28.59006
+29.28725,RightController,(0.00, 0.97, 0.09),(0.50913, 0.11611, 0.01184, -0.85274),True
+Keystroke, Space_Button, 29.45551
+30.15163,RightController,(0.02, 0.99, 0.09),(0.59744, -0.01708, -0.15481, -0.78664),True
+Keystroke, i, 30.30484
+31.13926,RightController,(-0.02, 0.97, 0.07),(0.55656, 0.18959, 0.12799, -0.79869),True
+Keystroke, s, 31.29248
+32.19781,RightController,(0.00, 0.97, 0.08),(0.51300, 0.17766, 0.02196, -0.83952),True
+Keystroke, Space_Button, 32.33667
+33.04715,RightController,(-0.02, 0.97, 0.06),(0.55507, 0.23706, 0.14648, -0.78374),True
+Keystroke, a, 33.20013
+34.18933,RightController,(0.02, 0.99, 0.09),(0.58226, -0.10406, -0.21140, -0.77811),True
+Keystroke, p, 34.32853
+34.55129,RightController,(0.02, 0.99, 0.09),(0.58019, -0.10345, -0.21451, -0.77889),True
+Keystroke, p, 34.70439
+35.19173,RightController,(0.02, 0.99, 0.09),(0.55484, -0.06361, -0.17891, -0.81000),True
+Keystroke, l, 35.33085
+36.09703,RightController,(-0.02, 0.98, 0.06),(0.59927, 0.14791, 0.12300, -0.77709),True
+Keystroke, e, 36.26396
+37.15495,RightController,(0.00, 0.97, 0.08),(0.52282, 0.11074, -0.02544, -0.84483),True
+Keystroke, Space_Button, 37.28035
+38.08792,RightController,(-0.02, 0.97, 0.07),(0.56975, 0.20930, 0.11122, -0.78690),True
+Keystroke, s, 38.25487
+38.95088,RightController,(0.00, 0.99, 0.07),(0.58118, 0.06167, -0.08162, -0.80732),True
+Keystroke, h, 39.10387
+40.03608,RightController,(-0.02, 0.97, 0.05),(0.55699, 0.24193, 0.14508, -0.78114),True
+Keystroke, a, 40.18972
+41.19226,RightController,(0.02, 1.00, 0.08),(0.57504, -0.09093, -0.24163, -0.77632),True
+Keystroke, p, 41.33134
+42.59754,RightController,(-0.02, 0.98, 0.06),(0.60988, 0.15598, 0.09552, -0.77110),True
+Keystroke, e, 42.76439
+43.16788,RightController,(-0.02, 0.98, 0.06),(0.57655, 0.16091, 0.07566, -0.79748),True
+Keystroke, d, 43.32116
+44.46392,RightController,(0.12, 1.01, 0.13),(0.55227, -0.21296, -0.15238, -0.79147),True
+Answer,the fruit of a fig tree is apple shaped
+Keystroke, Enter_Button, 44.63103

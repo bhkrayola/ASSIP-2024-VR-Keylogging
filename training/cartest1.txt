@@ -1,0 +1,70 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+16.87035,RightController,(0.04, 1.03, 0.08),(-0.70925, 0.01974, -0.12303, 0.69386),True
+Keystroke, Start, 16.87035
+19.87624,RightController,(0.01, 0.99, 0.07),(-0.56340, -0.23245, -0.16499, 0.77545),True
+Keystroke, q, 20.04317
+20.55924,RightController,(0.02, 1.00, 0.08),(-0.58711, -0.19804, -0.15117, 0.77021),True
+Keystroke, w, 20.72647
+21.17197,RightController,(0.03, 1.01, 0.09),(-0.59750, -0.14564, -0.12503, 0.77856),True
+Keystroke, e, 21.32453
+21.72766,RightController,(0.04, 1.02, 0.10),(-0.60242, -0.11452, -0.11348, 0.78173),True
+Keystroke, r, 21.88083
+22.27073,RightController,(0.04, 1.01, 0.11),(-0.61270, -0.07653, -0.07064, 0.78342),True
+Keystroke, t, 22.42382
+22.72989,RightController,(0.05, 1.01, 0.12),(-0.60417, -0.02634, -0.03951, 0.79544),True
+Keystroke, y, 22.89704
+23.32837,RightController,(0.06, 1.01, 0.14),(-0.60682, 0.02580, -0.01708, 0.79424),True
+Keystroke, u, 23.49571
+23.84359,RightController,(0.08, 1.02, 0.16),(-0.61579, 0.08836, -0.00395, 0.78293),True
+Keystroke, i, 23.98282
+24.47026,RightController,(0.10, 1.03, 0.17),(-0.60920, 0.13129, 0.00607, 0.78205),True
+Keystroke, o, 24.65129
+25.44481,RightController,(0.12, 1.04, 0.18),(-0.60968, 0.19469, -0.00361, 0.76836),True
+Keystroke, p, 25.62574
+26.94938,RightController,(0.02, 1.01, 0.05),(-0.53741, -0.21547, -0.17388, 0.79657),True
+Keystroke, a, 27.11641
+28.14766,RightController,(0.03, 1.01, 0.06),(-0.54384, -0.19877, -0.14593, 0.80215),True
+Keystroke, s, 28.32833
+28.70414,RightController,(0.03, 1.02, 0.07),(-0.55667, -0.15705, -0.11971, 0.80692),True
+Keystroke, d, 28.85733
+29.23266,RightController,(0.03, 1.02, 0.08),(-0.55272, -0.11910, -0.10497, 0.81811),True
+Keystroke, f, 29.38575
+29.831,RightController,(0.04, 1.02, 0.09),(-0.57211, -0.07202, -0.06812, 0.81416),True
+Keystroke, g, 29.99762
+31.37581,RightController,(-0.01, 1.02, 0.04),(-0.56133, 0.01402, -0.11178, 0.81989),True
+Keystroke, h, 31.58449
+32.14149,RightController,(-0.01, 1.02, 0.05),(-0.58475, 0.06133, -0.07162, 0.80572),True
+Keystroke, j, 32.36403
+33.31092,RightController,(0.00, 1.03, 0.06),(-0.56208, 0.10068, -0.05862, 0.81884),True
+Keystroke, k, 33.47806
+34.07643,RightController,(0.01, 1.03, 0.08),(-0.57641, 0.15175, -0.02406, 0.80259),True
+Keystroke, l, 34.29919
+35.19036,RightController,(0.02, 1.04, 0.08),(-0.57023, 0.20104, -0.00801, 0.79646),True
+Keystroke, ', 35.42693
+36.97363,RightController,(0.00, 1.02, 0.02),(-0.49053, -0.15120, -0.20180, 0.83414),True
+Keystroke, z, 37.16849
+37.76674,RightController,(0.00, 1.02, 0.03),(-0.51220, -0.12887, -0.17914, 0.83003),True
+Keystroke, x, 37.9477
+38.40654,RightController,(0.01, 1.02, 0.05),(-0.51988, -0.07805, -0.14349, 0.83848),True
+Keystroke, c, 38.60125
+39.04683,RightController,(0.01, 1.02, 0.06),(-0.52467, -0.04409, -0.11805, 0.84193),True
+Keystroke, v, 39.24189
+39.86811,RightController,(0.02, 1.03, 0.08),(-0.52881, 0.00484, -0.07989, 0.84496),True
+Keystroke, b, 40.09081
+41.05158,RightController,(0.04, 1.03, 0.09),(-0.52405, 0.05638, -0.05317, 0.84815),True
+Keystroke, n, 41.24651
+41.84532,RightController,(0.05, 1.03, 0.11),(-0.53073, 0.10417, -0.03803, 0.84025),True
+Keystroke, m, 42.04019
+42.56939,RightController,(0.06, 1.03, 0.12),(-0.53649, 0.13890, -0.01141, 0.83232),True
+Keystroke, ,, 42.77824
+43.71087,RightController,(0.06, 1.04, 0.14),(-0.53490, 0.20203, 0.00398, 0.82040),True
+Keystroke, ., 43.94751
+45.38152,RightController,(0.01, 1.01, 0.09),(-0.49318, 0.01254, -0.04314, 0.86877),True
+Keystroke, Space_Button, 45.59047
+47.51157,RightController,(0.00, 1.00, 0.06),(-0.50020, -0.13030, -0.05579, 0.85423),True
+Keystroke, Space_Button, 47.7484
+48.7229,RightController,(0.05, 1.00, 0.15),(-0.49067, 0.10622, 0.04768, 0.86353),True
+Keystroke, Space_Button, 48.9178
+52.27314,RightController,(0.11, 1.06, 0.16),(-0.56166, 0.24261, 0.04983, 0.78943),True
+Answer,qwertyuiopasdfghjkl'zxcvbnm,.   
+Keystroke, Enter_Button, 52.46801

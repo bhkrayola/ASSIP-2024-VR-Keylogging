@@ -1,0 +1,84 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+Timestamp, Controller, Position, Orientation, TriggerPressed
+6.229384,RightController,(-0.06, 0.90, -0.23),(-0.71107, 0.03649, -0.16031, 0.68363),True
+Keystroke, Start, 6.229384
+7.706038,RightController,(-0.10, 0.86, -0.23),(-0.55801, -0.11702, -0.20545, 0.79544),True
+Keystroke, s, 7.887049
+8.666854,RightController,(-0.04, 0.87, -0.16),(-0.57577, 0.11512, -0.03308, 0.80879),True
+10.04536,RightController,(-0.03, 0.88, -0.17),(-0.62681, 0.15528, -0.03062, 0.76293),True
+Keystroke, o, 10.22638
+11.56314,RightController,(-0.03, 0.88, -0.17),(-0.65501, 0.14867, -0.03050, 0.74022),True
+Keystroke, Backspace, 11.74432
+12.51014,RightController,(-0.04, 0.86, -0.16),(-0.56001, 0.09777, -0.02379, 0.82235),True
+Keystroke, m, 12.69101
+13.10874,RightController,(-0.03, 0.88, -0.17),(-0.63492, 0.13462, 0.00566, 0.76074),True
+Keystroke, o, 13.3037
+13.67965,RightController,(-0.04, 0.87, -0.17),(-0.58435, 0.09617, -0.00517, 0.80576),True
+Keystroke, k, 13.83264
+14.44531,RightController,(-0.06, 0.87, -0.19),(-0.62081, 0.01230, -0.08475, 0.77927),True
+Keystroke, y, 14.61229
+15.41996,RightController,(-0.06, 0.85, -0.17),(-0.53108, 0.01564, -0.02891, 0.84669),True
+Keystroke, Space_Button, 15.58697
+16.15779,RightController,(-0.07, 0.87, -0.20),(-0.57864, -0.05654, -0.11659, 0.80523),True
+Keystroke, f, 16.31089
+16.78424,RightController,(-0.04, 0.88, -0.18),(-0.62083, 0.11715, -0.02198, 0.77484),True
+Keystroke, i, 16.97937
+17.64757,RightController,(-0.07, 0.87, -0.21),(-0.60102, -0.06097, -0.14708, 0.78322),True
+Keystroke, r, 17.82852
+18.41348,RightController,(-0.08, 0.87, -0.22),(-0.59190, -0.09621, -0.16100, 0.78389),True
+Keystroke, e, 18.63624
+18.88675,RightController,(-0.08, 0.87, -0.22),(-0.56636, -0.14098, -0.15409, 0.79726),True
+Keystroke, s, 19.03994
+19.72172,RightController,(-0.05, 0.86, -0.17),(-0.53870, 0.03081, -0.01024, 0.84187),True
+Keystroke, Space_Button, 19.8747
+20.37623,RightController,(-0.03, 0.87, -0.16),(-0.59401, 0.14194, 0.00610, 0.79181),True
+Keystroke, l, 20.54328
+21.17003,RightController,(-0.10, 0.86, -0.23),(-0.56226, -0.17852, -0.16836, 0.78971),True
+Keystroke, a, 21.3509
+21.92179,RightController,(-0.08, 0.86, -0.21),(-0.54825, -0.10411, -0.11214, 0.82220),True
+Keystroke, x, 22.08898
+22.77086,RightController,(-0.03, 0.88, -0.17),(-0.59979, 0.11751, -0.03445, 0.79073),True
+Keystroke, k, 22.97971
+23.74535,RightController,(-0.03, 0.89, -0.18),(-0.66791, 0.12852, -0.03189, 0.73237),True
+Keystroke, Backspace, 23.91257
+24.07957,RightController,(-0.03, 0.89, -0.17),(-0.66005, 0.13974, -0.02378, 0.73773),True
+Keystroke, Backspace, 24.3025
+25.63906,RightController,(-0.07, 0.86, -0.19),(-0.56286, -0.09114, -0.05648, 0.81957),True
+Keystroke, c, 25.81998
+26.43249,RightController,(-0.03, 0.87, -0.16),(-0.59795, 0.09572, 0.01206, 0.79570),True
+Keystroke, k, 26.59952
+27.05911,RightController,(-0.05, 0.86, -0.17),(-0.52891, 0.00521, 0.01257, 0.84857),True
+Keystroke, Space_Button, 27.25394
+27.85259,RightController,(-0.07, 0.87, -0.19),(-0.57992, -0.07552, -0.10017, 0.80495),True
+Keystroke, f, 28.0196
+28.63209,RightController,(-0.02, 0.87, -0.15),(-0.59879, 0.12719, 0.03714, 0.78987),True
+Keystroke, l, 28.81317
+29.62104,RightController,(-0.09, 0.85, -0.21),(-0.57096, -0.19520, -0.13151, 0.78652),True
+Keystroke, a, 29.80184
+30.51156,RightController,(-0.04, 0.86, -0.16),(-0.56615, 0.08275, 0.00893, 0.82009),True
+Keystroke, m, 30.6926
+31.30542,RightController,(-0.08, 0.87, -0.21),(-0.59537, -0.09964, -0.16597, 0.77978),True
+Keystroke, e, 31.45845
+32.3078,RightController,(-0.05, 0.85, -0.16),(-0.53246, 0.01549, -0.01269, 0.84622),True
+Keystroke, Space_Button, 32.47473
+33.0735,RightController,(-0.09, 0.86, -0.22),(-0.54721, -0.16749, -0.19799, 0.79581),True
+Keystroke, a, 33.24054
+34.034,RightController,(-0.04, 0.87, -0.16),(-0.56167, 0.06735, -0.05153, 0.82300),True
+Keystroke, n, 34.21503
+34.96684,RightController,(-0.07, 0.87, -0.20),(-0.56820, -0.10760, -0.15848, 0.80028),True
+Keystroke, d, 35.11993
+36.16394,RightController,(-0.05, 0.86, -0.16),(-0.52814, 0.03474, -0.04809, 0.84708),True
+Keystroke, Space_Button, 36.3309
+37.05511,RightController,(-0.05, 0.87, -0.18),(-0.59224, 0.03423, -0.09014, 0.79997),True
+Keystroke, h, 37.22215
+37.82088,RightController,(-0.07, 0.87, -0.20),(-0.59855, -0.10685, -0.15360, 0.77892),True
+Keystroke, e, 37.98795
+38.48927,RightController,(-0.08, 0.86, -0.21),(-0.55938, -0.19173, -0.15659, 0.79109),True
+Keystroke, a, 38.65625
+39.21309,RightController,(-0.07, 0.86, -0.19),(-0.62713, -0.04323, -0.05169, 0.77599),True
+Keystroke, t, 39.3942
+40.15983,RightController,(-0.01, 0.87, -0.13),(-0.56827, 0.16716, 0.04876, 0.80420),True
+Keystroke, ., 40.35482
+41.28766,RightController,(0.02, 0.88, -0.13),(-0.57886, 0.22017, 0.05954, 0.78288),True
+Answer,smoky fires lack flame and heat.
+Keystroke, Enter_Button, 41.49638

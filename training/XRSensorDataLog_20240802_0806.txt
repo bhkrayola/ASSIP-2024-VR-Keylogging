@@ -1,0 +1,78 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+6.34022,RightController,(-0.10, 0.89, -0.25),(-0.70006, 0.02079, -0.06104, 0.71116),True
+Keystroke, Start, 6.34022
+7.956011,RightController,(-0.10, 0.88, -0.24),(-0.61265, -0.01086, -0.09733, 0.78426),True
+Keystroke, t, 8.150954
+8.596704,RightController,(-0.10, 0.88, -0.23),(-0.58817, 0.02805, -0.06599, 0.80555),True
+Keystroke, h, 8.763818
+9.459984,RightController,(-0.11, 0.88, -0.26),(-0.58761, -0.07858, -0.17852, 0.78528),True
+Keystroke, e, 9.627151
+10.25378,RightController,(-0.10, 0.87, -0.22),(-0.52652, 0.02335, -0.05356, 0.84815),True
+Keystroke, Space_Button, 10.46265
+11.06149,RightController,(-0.09, 0.88, -0.23),(-0.55200, 0.03209, -0.05791, 0.83121),True
+Keystroke, b, 11.22851
+12.09174,RightController,(-0.07, 0.89, -0.22),(-0.61817, 0.15035, -0.00340, 0.77152),True
+Keystroke, o, 12.28648
+13.08037,RightController,(-0.09, 0.89, -0.24),(-0.61495, 0.03604, -0.10098, 0.78124),True
+Keystroke, y, 13.26122
+14.0408,RightController,(-0.09, 0.87, -0.22),(-0.52920, 0.03845, -0.02696, 0.84720),True
+Keystroke, Space_Button, 14.22184
+15.09912,RightController,(-0.11, 0.89, -0.27),(-0.58088, -0.11242, -0.20579, 0.77948),True
+Keystroke, w, 15.28011
+15.85099,RightController,(-0.11, 0.88, -0.27),(-0.55340, -0.15899, -0.19143, 0.79488),True
+Keystroke, a, 16.01789
+16.56114,RightController,(-0.11, 0.88, -0.26),(-0.56278, -0.12884, -0.17348, 0.79786),True
+Keystroke, s, 16.74186
+17.57707,RightController,(-0.08, 0.87, -0.21),(-0.52823, 0.05694, -0.02785, 0.84673),True
+Keystroke, Space_Button, 17.7859
+18.59363,RightController,(-0.09, 0.89, -0.24),(-0.60335, -0.00210, -0.12556, 0.78753),True
+Keystroke, t, 18.77452
+19.24797,RightController,(-0.09, 0.89, -0.23),(-0.58244, 0.03336, -0.07928, 0.80831),True
+Keystroke, h, 19.45675
+20.13898,RightController,(-0.10, 0.89, -0.26),(-0.59786, -0.08791, -0.16556, 0.77937),True
+Keystroke, e, 20.30598
+20.73765,RightController,(-0.10, 0.89, -0.25),(-0.60387, -0.04187, -0.14973, 0.78178),True
+Keystroke, r, 20.96053
+21.47561,RightController,(-0.10, 0.89, -0.26),(-0.59234, -0.08177, -0.17044, 0.78320),True
+Keystroke, e, 21.68425
+22.61704,RightController,(-0.07, 0.88, -0.21),(-0.53013, 0.04079, -0.03764, 0.84610),True
+Keystroke, Space_Button, 22.81205
+23.6195,RightController,(-0.09, 0.90, -0.26),(-0.56925, -0.11257, -0.22180, 0.78364),True
+Keystroke, w, 23.8145
+24.81672,RightController,(-0.08, 0.89, -0.23),(-0.58964, 0.04008, -0.08865, 0.80178),True
+Keystroke, h, 25.01171
+26.0838,RightController,(-0.09, 0.90, -0.26),(-0.57851, -0.07118, -0.20614, 0.78598),True
+Keystroke, e, 26.2927
+27.04425,RightController,(-0.07, 0.89, -0.22),(-0.56287, 0.08303, -0.06355, 0.81991),True
+Keystroke, n, 27.28105
+27.78225,RightController,(-0.08, 0.88, -0.22),(-0.52121, 0.04929, -0.05808, 0.85002),True
+Keystroke, Space_Button, 27.99103
+28.53398,RightController,(-0.09, 0.89, -0.24),(-0.60351, 0.00822, -0.13513, 0.78578),True
+Keystroke, t, 28.72886
+29.20224,RightController,(-0.08, 0.89, -0.23),(-0.58182, 0.03372, -0.08650, 0.80800),True
+Keystroke, h, 29.39719
+30.42762,RightController,(-0.10, 0.89, -0.26),(-0.60019, -0.09231, -0.16483, 0.77722),True
+Keystroke, e, 30.59467
+31.65271,RightController,(-0.08, 0.87, -0.21),(-0.52176, 0.05083, -0.04850, 0.85019),True
+Keystroke, Space_Button, 31.84766
+32.73874,RightController,(-0.10, 0.90, -0.27),(-0.55410, -0.12412, -0.18634, 0.80178),True
+Keystroke, s, 32.90572
+33.75486,RightController,(-0.08, 0.90, -0.24),(-0.61930, 0.07330, -0.04596, 0.78038),True
+Keystroke, u, 33.96376
+34.71554,RightController,(-0.08, 0.89, -0.23),(-0.55931, 0.05079, -0.02233, 0.82710),True
+Keystroke, n, 34.92446
+35.41163,RightController,(-0.08, 0.88, -0.23),(-0.52490, 0.02897, -0.02500, 0.85030),True
+Keystroke, Space_Button, 35.59259
+36.37238,RightController,(-0.09, 0.90, -0.26),(-0.60312, -0.04059, -0.15608, 0.78118),True
+Keystroke, r, 36.5393
+37.33285,RightController,(-0.06, 0.90, -0.23),(-0.61572, 0.16712, -0.02768, 0.76954),True
+Keystroke, o, 37.52782
+38.58609,RightController,(-0.10, 0.89, -0.27),(-0.56627, -0.13593, -0.16558, 0.79590),True
+Keystroke, s, 38.79498
+39.36571,RightController,(-0.09, 0.90, -0.27),(-0.59399, -0.08691, -0.16353, 0.78287),True
+Keystroke, e, 39.56059
+41.13371,RightController,(0.00, 0.91, -0.20),(-0.56197, 0.18401, 0.01341, 0.80632),True
+Keystroke, ., 41.34256
+43.45861,RightController,(0.01, 0.92, -0.21),(-0.58642, 0.23325, 0.03928, 0.77470),True
+Answer,the boy was there when the sun rose.
+Keystroke, Enter_Button, 43.63945

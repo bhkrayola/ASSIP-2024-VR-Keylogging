@@ -1,0 +1,107 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+5.799652,RightController,(-0.02, 1.08, 0.05),(0.69921, 0.00660, 0.04198, -0.71365),True
+Keystroke, Start, 5.799652
+7.122819,RightController,(-0.02, 1.06, 0.07),(0.59116, 0.04871, 0.07798, -0.80130),True
+Keystroke, t, 7.290045
+7.861307,RightController,(-0.02, 1.06, 0.07),(0.56711, 0.01843, 0.04300, -0.82231),True
+Keystroke, h, 8.028387
+8.808446,RightController,(-0.02, 1.07, 0.05),(0.58242, 0.15718, 0.12125, -0.78828),True
+Keystroke, e, 8.97537
+9.39311,RightController,(-0.02, 1.07, 0.06),(0.59100, 0.10116, 0.10554, -0.79331),True
+Keystroke, r, 9.560213
+9.964108,RightController,(-0.02, 1.07, 0.05),(0.58154, 0.14009, 0.11996, -0.79233),True
+Keystroke, e, 10.10326
+10.91118,RightController,(-0.01, 1.05, 0.09),(0.49853, 0.02964, 0.01675, -0.86620),True
+Keystroke, Space_Button, 11.09243
+11.94247,RightController,(0.00, 1.08, 0.09),(0.59546, -0.09497, 0.01435, -0.79762),True
+Keystroke, i, 12.1654
+13.02883,RightController,(-0.02, 1.06, 0.05),(0.53843, 0.19796, 0.12856, -0.80893),True
+Keystroke, s, 13.19584
+13.9618,RightController,(-0.02, 1.05, 0.06),(0.50082, 0.18529, 0.04030, -0.84453),True
+Keystroke, Space_Button, 14.12869
+14.82486,RightController,(-0.02, 1.06, 0.04),(0.53265, 0.23626, 0.14080, -0.80040),True
+Keystroke, a, 14.992
+16.21373,RightController,(-0.02, 1.05, 0.06),(0.49859, 0.17539, 0.02114, -0.84865),True
+Keystroke, Space_Button, 16.36689
+17.14705,RightController,(-0.02, 1.06, 0.05),(0.54216, 0.21188, 0.10045, -0.80689),True
+Keystroke, s, 17.31413
+17.96908,RightController,(-0.01, 1.08, 0.07),(0.59056, 0.04791, 0.06989, -0.80254),True
+Keystroke, t, 18.12186
+18.47202,RightController,(-0.01, 1.08, 0.06),(0.57871, 0.10900, 0.08654, -0.80357),True
+Keystroke, r, 18.62521
+19.51654,RightController,(0.02, 1.09, 0.12),(0.59193, -0.13595, -0.01105, -0.79436),True
+Keystroke, o, 19.7254
+20.7001,RightController,(0.01, 1.07, 0.10),(0.54115, -0.02647, -0.00736, -0.84047),True
+Keystroke, n, 20.86712
+21.46572,RightController,(0.00, 1.07, 0.08),(0.56746, 0.06822, 0.04589, -0.81929),True
+Keystroke, g, 21.64688
+22.45438,RightController,(0.00, 1.05, 0.10),(0.49585, 0.02650, -0.01991, -0.86778),True
+Keystroke, Space_Button, 22.62152
+23.30368,RightController,(-0.01, 1.07, 0.07),(0.52079, 0.11597, 0.05796, -0.84378),True
+Keystroke, c, 23.48469
+23.95816,RightController,(0.00, 1.08, 0.08),(0.56648, 0.02108, 0.03841, -0.82291),True
+Keystroke, h, 24.15296
+25.25232,RightController,(-0.01, 1.07, 0.03),(0.54007, 0.24699, 0.11263, -0.79664),True
+Keystroke, a, 25.43354
+26.10179,RightController,(0.02, 1.07, 0.11),(0.53573, -0.00611, -0.02440, -0.84401),True
+Keystroke, n, 26.28293
+26.85393,RightController,(0.00, 1.07, 0.07),(0.53425, 0.13754, 0.04172, -0.83302),True
+Keystroke, c, 27.0209
+27.54998,RightController,(0.00, 1.09, 0.05),(0.57751, 0.14336, 0.12145, -0.79447),True
+Keystroke, e, 27.71706
+28.63593,RightController,(0.02, 1.07, 0.13),(0.48377, -0.01285, -0.00906, -0.87505),True
+Keystroke, Space_Button, 28.83087
+31.01666,RightController,(0.03, 1.10, 0.11),(0.59545, -0.09743, 0.01791, -0.79726),True
+Keystroke, i, 31.19771
+32.2696,RightController,(0.01, 1.10, 0.08),(0.58713, 0.03335, 0.10758, -0.80162),True
+Keystroke, t, 32.43672
+33.45309,RightController,(0.01, 1.07, 0.12),(0.49302, 0.00153, -0.01006, -0.86996),True
+Keystroke, Space_Button, 33.62003
+34.84537,RightController,(0.00, 1.09, 0.04),(0.56570, 0.18040, 0.15147, -0.79025),True
+Keystroke, w, 35.01088
+35.83338,RightController,(0.04, 1.11, 0.12),(0.59217, -0.09177, -0.01299, -0.80047),True
+Keystroke, i, 36.00048
+36.44616,RightController,(0.05, 1.10, 0.14),(0.55621, -0.13037, -0.02546, -0.82036),True
+Keystroke, l, 36.61335
+36.73879,RightController,(0.05, 1.10, 0.14),(0.55515, -0.12730, -0.02313, -0.82163),True
+Keystroke, l, 36.90562
+37.65745,RightController,(0.01, 1.07, 0.11),(0.49589, -0.01403, 0.00487, -0.86826),True
+Keystroke, Space_Button, 37.83856
+38.59037,RightController,(0.01, 1.09, 0.08),(0.56162, 0.01022, 0.03283, -0.82668),True
+Keystroke, h, 38.77123
+39.68889,RightController,(0.00, 1.09, 0.03),(0.52131, 0.21994, 0.19135, -0.80203),True
+Keystroke, a, 39.87046
+40.90116,RightController,(0.07, 1.12, 0.15),(0.59190, -0.18762, -0.01754, -0.78367),True
+Keystroke, p, 41.06829
+41.17966,RightController,(0.07, 1.13, 0.14),(0.59723, -0.18749, -0.01434, -0.77971),True
+Keystroke, p, 41.3328
+42.30765,RightController,(0.01, 1.10, 0.04),(0.57026, 0.14057, 0.15833, -0.79371),True
+Keystroke, e, 42.47468
+43.28223,RightController,(0.03, 1.09, 0.11),(0.53196, -0.03247, 0.00623, -0.84613),True
+Keystroke, n, 43.44916
+43.95042,RightController,(0.03, 1.07, 0.12),(0.48555, -0.02450, -0.00176, -0.87386),True
+Keystroke, Space_Button, 44.11746
+44.85548,RightController,(0.06, 1.12, 0.13),(0.58919, -0.14831, -0.00928, -0.79422),True
+Keystroke, o, 45.03635
+46.41475,RightController,(0.02, 1.09, 0.11),(0.52150, -0.03291, 0.00833, -0.85258),True
+Keystroke, n, 46.56785
+47.77913,RightController,(0.00, 1.09, 0.06),(0.52275, 0.10929, 0.07037, -0.84252),True
+Keystroke, c, 47.93219
+48.51703,RightController,(0.01, 1.10, 0.04),(0.57692, 0.13459, 0.14590, -0.79231),True
+Keystroke, e, 48.68401
+50.25723,RightController,(0.03, 1.09, 0.13),(0.48571, -0.03034, 0.05197, -0.87205),True
+Keystroke, Space_Button, 50.43804
+51.12026,RightController,(0.06, 1.12, 0.14),(0.52303, -0.10525, 0.03117, -0.84522),True
+Keystroke, m, 51.27346
+51.84426,RightController,(0.09, 1.15, 0.13),(0.58189, -0.15790, 0.04158, -0.79670),True
+Keystroke, o, 52.02518
+52.94418,RightController,(0.02, 1.12, 0.06),(0.56815, 0.07959, 0.13736, -0.80747),True
+Keystroke, r, 53.12512
+53.59858,RightController,(0.02, 1.12, 0.04),(0.56301, 0.12483, 0.15124, -0.80285),True
+61.04535,RightController,(0.00, 1.08, 0.07),(0.57271, 0.13143, 0.15116, -0.79491),True
+Keystroke, e, 61.21343
+62.52248,RightController,(0.07, 1.10, 0.18),(0.52543, -0.22171, 0.01607, -0.82129),True
+Keystroke, ., 62.70373
+67.01984,RightController,(0.09, 1.12, 0.18),(0.55884, -0.26942, 0.01163, -0.78421),True
+Answer,there is a strong chance it will happen once more.
+Keystroke, Enter_Button, 67.20083

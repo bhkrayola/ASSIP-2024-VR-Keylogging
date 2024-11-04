@@ -1,0 +1,88 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+30.13765,RightController,(0.02, 0.93, 0.14),(-0.71367, 0.02378, -0.13084, 0.68775),True
+Keystroke, Start, 30.13765
+31.26352,RightController,(0.01, 0.91, 0.15),(-0.61823, -0.03993, -0.12738, 0.77458),True
+Keystroke, t, 31.43079
+31.83539,RightController,(0.02, 0.91, 0.16),(-0.59870, -0.00295, -0.08739, 0.79619),True
+Keystroke, h, 32.00259
+32.50418,RightController,(0.00, 0.91, 0.13),(-0.59048, -0.12695, -0.20946, 0.76899),True
+Keystroke, e, 32.67124
+33.32542,RightController,(0.02, 0.89, 0.17),(-0.52609, -0.03856, -0.06593, 0.84699),True
+Keystroke, Space_Button, 33.49274
+34.21677,RightController,(0.03, 0.91, 0.17),(-0.55826, 0.01218, -0.07040, 0.82658),True
+Keystroke, b, 34.38374
+34.98237,RightController,(0.05, 0.93, 0.17),(-0.63239, 0.10600, -0.04996, 0.76573),True
+Keystroke, i, 35.14948
+35.85912,RightController,(0.01, 0.92, 0.14),(-0.61194, -0.09386, -0.12956, 0.77456),True
+Keystroke, r, 36.0123
+36.55533,RightController,(0.01, 0.90, 0.15),(-0.54796, -0.11306, -0.09274, 0.82362),True
+Keystroke, c, 36.70835
+37.2791,RightController,(0.03, 0.92, 0.16),(-0.59517, 0.00237, -0.07731, 0.79987),True
+Keystroke, h, 37.45994
+38.8788,RightController,(0.03, 0.90, 0.18),(-0.52215, 0.01425, -0.05370, 0.85104),True
+Keystroke, Space_Button, 39.04563
+39.84066,RightController,(0.01, 0.91, 0.14),(-0.54675, -0.09118, -0.12935, 0.82220),True
+Keystroke, c, 39.99366
+40.59264,RightController,(0.01, 0.92, 0.12),(-0.52439, -0.19478, -0.26344, 0.78593),True
+Keystroke, a, 40.75962
+41.52456,RightController,(0.05, 0.92, 0.18),(-0.56118, 0.05432, -0.07589, 0.82241),True
+Keystroke, n, 41.6911
+42.13628,RightController,(0.06, 0.94, 0.17),(-0.63528, 0.15047, -0.03175, 0.75682),True
+Keystroke, o, 42.28951
+42.98616,RightController,(0.02, 0.92, 0.13),(-0.58938, -0.12402, -0.19941, 0.77297),True
+Keystroke, e, 43.15405
+44.57388,RightController,(0.03, 0.90, 0.18),(-0.52514, 0.01648, -0.03980, 0.84992),True
+Keystroke, Space_Button, 44.78251
+45.74387,RightController,(0.00, 0.91, 0.12),(-0.55210, -0.17297, -0.21212, 0.78757),True
+Keystroke, s, 45.88285
+46.35632,RightController,(0.03, 0.93, 0.15),(-0.60952, -0.02456, -0.17746, 0.77226),True
+Keystroke, t, 46.48176
+47.0237,RightController,(0.06, 0.93, 0.18),(-0.63120, 0.15795, -0.07590, 0.75557),True
+Keystroke, o, 47.19026
+47.28775,RightController,(0.06, 0.93, 0.18),(-0.63376, 0.16175, -0.07972, 0.75222),True
+Keystroke, o, 47.41311
+48.15109,RightController,(0.01, 0.92, 0.13),(-0.56520, -0.12843, -0.20583, 0.78847),True
+Keystroke, d, 48.27691
+48.77841,RightController,(0.03, 0.90, 0.18),(-0.52570, 0.04015, -0.08093, 0.84586),True
+Keystroke, Space_Button, 48.93137
+49.52919,RightController,(0.06, 0.94, 0.18),(-0.63171, 0.16392, -0.05726, 0.75551),True
+Keystroke, o, 49.68222
+50.14176,RightController,(0.03, 0.92, 0.17),(-0.55731, 0.05632, -0.08797, 0.82370),True
+Keystroke, n, 50.29494
+51.005,RightController,(0.03, 0.90, 0.18),(-0.52099, 0.03982, -0.08244, 0.84864),True
+Keystroke, Space_Button, 51.17193
+51.81256,RightController,(0.02, 0.93, 0.14),(-0.61526, -0.02832, -0.17641, 0.76781),True
+Keystroke, t, 51.96554
+52.22994,RightController,(0.02, 0.92, 0.15),(-0.58893, 0.01261, -0.13678, 0.79643),True
+Keystroke, h, 52.3831
+52.94034,RightController,(0.01, 0.93, 0.12),(-0.58979, -0.11676, -0.21164, 0.77053),True
+Keystroke, e, 53.07948
+54.01211,RightController,(0.03, 0.91, 0.18),(-0.52075, 0.03156, -0.07906, 0.84945),True
+Keystroke, Space_Button, 54.16522
+54.81973,RightController,(0.01, 0.93, 0.11),(-0.56666, -0.15197, -0.24192, 0.77284),True
+Keystroke, w, 54.97314
+55.61314,RightController,(0.07, 0.94, 0.18),(-0.63495, 0.15922, -0.06224, 0.75340),True
+Keystroke, o, 55.78041
+55.98912,RightController,(0.07, 0.94, 0.18),(-0.63401, 0.16291, -0.06084, 0.75352),True
+Keystroke, o, 56.14225
+57.03347,RightController,(0.01, 0.92, 0.13),(-0.57145, -0.13915, -0.16921, 0.79085),True
+Keystroke, d, 57.2008
+57.97989,RightController,(0.04, 0.91, 0.18),(-0.52197, 0.02323, -0.06897, 0.84986),True
+Keystroke, Space_Button, 58.14699
+59.34434,RightController,(0.08, 0.94, 0.18),(-0.63219, 0.19470, -0.02480, 0.74954),True
+Keystroke, p, 59.5253
+59.85949,RightController,(0.07, 0.93, 0.18),(-0.59668, 0.14749, -0.03513, 0.78803),True
+Keystroke, l, 60.02646
+60.80655,RightController,(0.00, 0.91, 0.11),(-0.55665, -0.22214, -0.21091, 0.77221),True
+Keystroke, a, 60.95955
+61.71108,RightController,(0.05, 0.92, 0.17),(-0.56100, 0.04141, -0.05543, 0.82492),True
+Keystroke, n, 61.87811
+62.37923,RightController,(0.06, 0.93, 0.17),(-0.60117, 0.11110, -0.04580, 0.79003),True
+Keystroke, k, 62.5323
+63.28448,RightController,(0.00, 0.92, 0.12),(-0.54948, -0.17596, -0.19636, 0.79281),True
+Keystroke, s, 63.43766
+64.76004,RightController,(0.10, 0.93, 0.21),(-0.56801, 0.20222, -0.01704, 0.79761),True
+Keystroke, ., 64.95486
+65.84608,RightController,(0.11, 0.94, 0.21),(-0.59968, 0.25918, -0.00879, 0.75706),True
+Answer,the birch canoe stood on the wood planks.
+Keystroke, Enter_Button, 66.01305

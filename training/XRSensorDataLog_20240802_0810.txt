@@ -1,0 +1,78 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+5.948542,RightController,(-0.07, 0.89, -0.23),(-0.70342, 0.00802, -0.05343, 0.70871),True
+Keystroke, Start, 5.948542
+7.675828,RightController,(-0.07, 0.88, -0.22),(-0.58405, -0.00953, -0.00966, 0.81160),True
+Keystroke, h, 7.884617
+8.915476,RightController,(-0.08, 0.88, -0.24),(-0.60106, -0.10881, -0.12629, 0.78163),True
+Keystroke, e, 9.138323
+10.4612,RightController,(-0.03, 0.89, -0.20),(-0.58446, 0.12718, 0.03382, 0.80068),True
+Keystroke, l, 10.68388
+11.40806,RightController,(-0.02, 0.90, -0.20),(-0.61702, 0.16419, 0.04748, 0.76816),True
+Keystroke, p, 11.58887
+12.61894,RightController,(-0.06, 0.88, -0.21),(-0.52329, 0.00699, -0.02320, 0.85181),True
+Keystroke, Space_Button, 12.81398
+13.76087,RightController,(-0.06, 0.90, -0.23),(-0.60546, -0.02385, -0.11256, 0.78751),True
+Keystroke, t, 13.95575
+14.47079,RightController,(-0.06, 0.89, -0.22),(-0.58865, 0.01992, -0.04428, 0.80693),True
+Keystroke, h, 14.67972
+15.66826,RightController,(-0.07, 0.90, -0.24),(-0.59481, -0.09181, -0.14912, 0.78456),True
+Keystroke, e, 15.8492
+16.57343,RightController,(-0.05, 0.88, -0.21),(-0.53534, 0.02667, -0.01404, 0.84410),True
+Keystroke, Space_Button, 16.75426
+17.85414,RightController,(-0.08, 0.90, -0.25),(-0.57551, -0.12375, -0.20115, 0.78295),True
+Keystroke, w, 18.04907
+18.88435,RightController,(-0.03, 0.90, -0.21),(-0.62156, 0.13305, 0.01988, 0.77173),True
+Keystroke, o, 19.07937
+19.7755,RightController,(-0.04, 0.89, -0.20),(-0.56518, 0.07463, 0.01934, 0.82136),True
+Keystroke, m, 19.98417
+20.83356,RightController,(-0.08, 0.89, -0.26),(-0.54508, -0.16637, -0.20434, 0.79590),True
+Keystroke, a, 21.01456
+21.97527,RightController,(-0.05, 0.89, -0.21),(-0.56200, 0.06057, -0.02584, 0.82451),True
+Keystroke, n, 22.19795
+22.74098,RightController,(-0.06, 0.88, -0.20),(-0.52101, 0.03664, -0.01314, 0.85266),True
+Keystroke, Space_Button, 22.93579
+23.68757,RightController,(-0.06, 0.90, -0.23),(-0.57961, -0.01617, -0.10532, 0.80790),True
+Keystroke, g, 23.8824
+24.63428,RightController,(-0.07, 0.90, -0.25),(-0.59312, -0.09303, -0.15106, 0.78532),True
+Keystroke, e, 24.82916
+25.38611,RightController,(-0.06, 0.90, -0.23),(-0.60704, -0.00528, -0.12863, 0.78417),True
+Keystroke, t, 25.56718
+26.63919,RightController,(-0.05, 0.88, -0.21),(-0.53044, 0.04624, -0.05447, 0.84471),True
+Keystroke, Space_Button, 26.84786
+27.4884,RightController,(-0.06, 0.89, -0.22),(-0.55594, 0.02205, -0.09132, 0.82589),True
+Keystroke, b, 27.68324
+28.54664,RightController,(-0.08, 0.90, -0.25),(-0.54903, -0.16754, -0.19683, 0.79483),True
+Keystroke, a, 28.76925
+29.45133,RightController,(-0.06, 0.89, -0.23),(-0.54688, -0.06272, -0.12410, 0.82558),True
+Keystroke, c, 29.66031
+30.45387,RightController,(-0.03, 0.90, -0.21),(-0.59279, 0.11577, -0.03614, 0.79617),True
+Keystroke, k, 30.66274
+31.91571,RightController,(-0.05, 0.89, -0.21),(-0.52070, 0.02612, -0.05003, 0.85187),True
+Keystroke, Space_Button, 32.09662
+32.93204,RightController,(-0.07, 0.90, -0.24),(-0.61513, -0.03359, -0.09155, 0.78237),True
+Keystroke, t, 33.18261
+33.823,RightController,(-0.04, 0.90, -0.21),(-0.61981, 0.14262, 0.00430, 0.77167),True
+Keystroke, o, 34.03185
+35.0065,RightController,(-0.06, 0.88, -0.22),(-0.52912, 0.00300, -0.01956, 0.84831),True
+Keystroke, Space_Button, 35.18727
+35.79995,RightController,(-0.06, 0.90, -0.23),(-0.59051, 0.01102, -0.05941, 0.80477),True
+Keystroke, h, 36.03661
+36.84416,RightController,(-0.07, 0.90, -0.25),(-0.59674, -0.10435, -0.12907, 0.78508),True
+Keystroke, e, 37.0808
+37.49841,RightController,(-0.06, 0.90, -0.24),(-0.60375, -0.06622, -0.12516, 0.78450),True
+Keystroke, r, 37.70733
+38.51484,RightController,(-0.05, 0.89, -0.21),(-0.53082, 0.02607, -0.01699, 0.84691),True
+Keystroke, Space_Button, 38.69564
+39.32215,RightController,(-0.06, 0.90, -0.24),(-0.57907, -0.05852, -0.10438, 0.80645),True
+Keystroke, f, 39.51709
+39.97649,RightController,(-0.07, 0.91, -0.26),(-0.59449, -0.10013, -0.14821, 0.78396),True
+Keystroke, e, 40.17159
+40.43602,RightController,(-0.07, 0.91, -0.25),(-0.59521, -0.10410, -0.14411, 0.78366),True
+Keystroke, e, 40.64481
+41.1461,RightController,(-0.06, 0.91, -0.24),(-0.61323, -0.02829, -0.10608, 0.78224),True
+Keystroke, t, 41.34106
+42.55233,RightController,(0.00, 0.91, -0.19),(-0.56424, 0.21625, -0.05824, 0.79465),True
+Keystroke, ., 42.76109
+43.318,RightController,(0.01, 0.91, -0.19),(-0.58772, 0.25881, -0.03471, 0.76577),True
+Answer,help the woman get back to her feet.
+Keystroke, Enter_Button, 43.52685

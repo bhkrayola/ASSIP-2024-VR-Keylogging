@@ -1,0 +1,76 @@
+Timestamp, Controller, Position, Orientation, TriggerPressed
+5.989567,RightController,(-0.07, 0.91, -0.26),(-0.70557, 0.02848, -0.12169, 0.69753),True
+Keystroke, Start, 5.989567
+7.744785,RightController,(-0.11, 0.88, -0.27),(-0.55663, -0.17179, -0.16842, 0.79516),True
+Keystroke, a, 7.93976
+9.207141,RightController,(-0.07, 0.88, -0.22),(-0.52668, 0.03371, -0.02588, 0.84900),True
+Keystroke, Space_Button, 9.374189
+10.04267,RightController,(-0.09, 0.89, -0.25),(-0.60450, -0.06017, -0.10436, 0.78744),True
+Keystroke, r, 10.20961
+11.15626,RightController,(-0.04, 0.90, -0.21),(-0.61846, 0.14083, 0.00918, 0.77304),True
+Keystroke, o, 11.35115
+12.0755,RightController,(-0.09, 0.89, -0.26),(-0.57094, -0.08728, -0.15138, 0.80218),True
+Keystroke, d, 12.25646
+12.99407,RightController,(-0.06, 0.88, -0.21),(-0.52891, 0.04941, -0.04632, 0.84597),True
+Keystroke, Space_Button, 13.17511
+14.1638,RightController,(-0.06, 0.90, -0.23),(-0.62015, 0.10307, -0.02908, 0.77714),True
+Keystroke, i, 14.35875
+15.23598,RightController,(-0.10, 0.89, -0.26),(-0.56803, -0.15130, -0.12845, 0.79872),True
+Keystroke, s, 15.45882
+16.25227,RightController,(-0.06, 0.88, -0.21),(-0.53478, 0.02468, -0.01032, 0.84457),True
+Keystroke, Space_Button, 16.44718
+17.05964,RightController,(-0.06, 0.90, -0.23),(-0.62431, 0.05353, -0.03210, 0.77868),True
+Keystroke, u, 17.2407
+18.32675,RightController,(-0.09, 0.89, -0.26),(-0.57096, -0.15894, -0.10025, 0.79919),True
+Keystroke, s, 18.50777
+19.14817,RightController,(-0.09, 0.89, -0.26),(-0.60819, -0.11300, -0.09237, 0.78026),True
+Keystroke, e, 19.34313
+19.84431,RightController,(-0.09, 0.89, -0.25),(-0.58606, -0.12770, -0.06311, 0.79765),True
+Keystroke, d, 20.02518
+20.83264,RightController,(-0.06, 0.88, -0.21),(-0.53341, 0.00568, 0.01172, 0.84575),True
+Keystroke, Space_Button, 21.01358
+21.83509,RightController,(-0.07, 0.90, -0.24),(-0.60496, -0.02665, -0.08201, 0.79157),True
+Keystroke, t, 22.03
+22.75396,RightController,(-0.04, 0.91, -0.22),(-0.61714, 0.13384, 0.01666, 0.77520),True
+Keystroke, o, 22.94893
+23.92346,RightController,(-0.06, 0.89, -0.22),(-0.52875, 0.01855, -0.01855, 0.84837),True
+Keystroke, Space_Button, 24.09045
+25.42706,RightController,(-0.08, 0.89, -0.25),(-0.55851, -0.08600, -0.07367, 0.82173),True
+Keystroke, c, 25.5941
+26.16499,RightController,(-0.09, 0.90, -0.27),(-0.54986, -0.18139, -0.18241, 0.79465),True
+Keystroke, a, 26.34604
+26.98628,RightController,(-0.07, 0.90, -0.24),(-0.61041, -0.01848, -0.10571, 0.78478),True
+Keystroke, t, 27.18123
+27.80766,RightController,(-0.08, 0.89, -0.25),(-0.55817, -0.08680, -0.07323, 0.82192),True
+Keystroke, c, 27.9746
+28.42018,RightController,(-0.07, 0.90, -0.24),(-0.59268, 0.01037, -0.04395, 0.80417),True
+Keystroke, h, 28.61503
+29.54803,RightController,(-0.06, 0.88, -0.21),(-0.52488, 0.02375, -0.00158, 0.85084),True
+Keystroke, Space_Button, 29.74288
+30.55051,RightController,(-0.04, 0.90, -0.21),(-0.61564, 0.17809, 0.03626, 0.76679),True
+Keystroke, p, 30.74537
+31.23269,RightController,(-0.06, 0.90, -0.23),(-0.61712, 0.08748, -0.02103, 0.78171),True
+Keystroke, i, 31.42769
+32.02634,RightController,(-0.07, 0.89, -0.22),(-0.55933, 0.03761, 0.00075, 0.82809),True
+Keystroke, n, 32.22124
+32.72246,RightController,(-0.05, 0.90, -0.22),(-0.59262, 0.09584, 0.01557, 0.79961),True
+Keystroke, k, 32.90326
+33.62737,RightController,(-0.07, 0.88, -0.22),(-0.52394, 0.00561, 0.00861, 0.85169),True
+Keystroke, Space_Button, 33.79427
+34.60194,RightController,(-0.08, 0.90, -0.26),(-0.55790, -0.13813, -0.15837, 0.80286),True
+Keystroke, s, 34.79676
+35.35377,RightController,(-0.08, 0.90, -0.27),(-0.55498, -0.17367, -0.16689, 0.79623),True
+Keystroke, a, 35.56263
+36.46743,RightController,(-0.03, 0.91, -0.21),(-0.59247, 0.14381, 0.01184, 0.79256),True
+Keystroke, l, 36.6484
+37.33057,RightController,(-0.04, 0.90, -0.22),(-0.55432, 0.07456, 0.00003, 0.82895),True
+Keystroke, m, 37.52548
+38.11012,RightController,(-0.03, 0.91, -0.22),(-0.61924, 0.14481, 0.01402, 0.77160),True
+Keystroke, o, 38.27699
+39.09874,RightController,(-0.05, 0.90, -0.22),(-0.55980, 0.03843, -0.01800, 0.82754),True
+Keystroke, n, 39.27965
+41.11756,RightController,(0.00, 0.90, -0.19),(-0.55038, 0.17196, 0.04079, 0.81599),True
+Keystroke, ., 41.29839
+43.30334,RightController,(0.01, 0.91, -0.19),(-0.57626, 0.20664, 0.06628, 0.78793),True
+Answer,a rod is used to catch pink salmon.
+Keystroke, Enter_Button, 43.4981
