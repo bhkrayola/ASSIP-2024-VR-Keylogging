@@ -1,11 +1,10 @@
 # Keylogging in Virtual Reality: Assessing Data Vulnerabilities via Motion-Position Sensors
+**Abstract**: [Read the published abstract here](https://journals.gmu.edu/index.php/jssr/article/view/4361)
 
 ## Project Overview
 This project investigates the potential for privacy leakage in Virtual Reality (VR) environments by logging motion and orientation data from VR controllers. By using a K-Nearest Neighbors (KNN) model, we were able to classify keystrokes with high accuracy, showcasing the vulnerabilities of VR systems to keylogging attacks.
 
 This study was aimed as a replication study for the following research: [Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards](https://www.winlab.rutgers.edu/~yychen/papers/Privacy%20Leakage%20via%20Unrestricted%20Motion-Position%20Sensors%20in%20the%20Age%20of%20Virtual%20Reality.pdf)
-
-**Abstract**: [Read the published abstract here](https://journals.gmu.edu/index.php/jssr/article/view/4361)
 
 ---
 
